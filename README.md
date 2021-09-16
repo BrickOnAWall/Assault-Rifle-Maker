@@ -1,5 +1,6 @@
 # Assault-Rifle-Maker
 A custom weapon maker for R5 Reloaded.
-100% gonna be issues here and there. If you find some then dm Average User.#5826 on discord.
-You need some basic knowledge. This aint gonna do the prechaching for you or dev menu. 
-Please enjoy I put alot of effort into this lol.
+100% gonna be issues here and there. If you find some then DM Average User.#5826 on discord.
+You need some basic knowledge. This ain't gonna do the prechaching, dev menu, or JANU's Framework. 
+This mainly is to create a shell of a weapon you can do more with if you have the knowledge.
+Please enjoy I put alot of effort into this.

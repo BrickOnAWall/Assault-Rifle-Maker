@@ -1,0 +1,9 @@
+For 1P:  Weapon_LSTAR_Fire_1P
+For 3P:  Weapon_LSTAR_Fire_3P
+DryFire: hemlok_dryfire
+
+
+ Viewmodel:   mdl/weapons/mastiff_stgn/ptpov_mastiff.rmdl
+Playermodel:  mdl/weapons/mastiff_stgn/w_mastiff.rmdl
+
+You can find Sounds/Weapons by exploring in "Your Name Of R5"\platform\scripts\weapons .

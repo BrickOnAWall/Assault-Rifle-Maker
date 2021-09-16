@@ -1,0 +1,5 @@
+The Commands For Map Spawn Are	PrecacheWeapon( $"mp_weapon_test_gun" ) 
+The Commands For Dev Menu Are 	SetupDevCommand( "test", "give mp_weapon_test_gun" )
+ 
+The Command For The JANU's Framework is  mp_weapon_test_gun 
+If you use JANU's Framework 2.0 you do not need to map spawn or use the dev menu! 
